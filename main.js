@@ -1,6 +1,6 @@
 
 
-var photoes = ["image/battery-charging.jpg", "image/battery-full.jpg", "image/battery-low.jpg"];
+var photoes = ["./image/battery-charging.jpg", "./image/battery-full.jpg", "./image/battery-low.jpg"];
 var image  = document.querySelector("#img");
 var count = 0;
 function next(){
