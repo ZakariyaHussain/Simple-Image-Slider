@@ -11,7 +11,7 @@ function next(){
         image.src = photoes[count];
     }
     image.src = photoes[count];
-
+}
 function pre(){
     count--;
     if(count < 0){
@@ -20,3 +20,4 @@ function pre(){
         image.src = photoes[count];
     }
     image.src = photoes[count];
+}
